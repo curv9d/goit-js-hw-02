@@ -8,10 +8,10 @@ function getShippingCost(country) {
             return "Shipping to Chile will cost 250 credits";
 
         case 'Jamaica':
-            return "Shipping to China will cost 120 credits";
+            return "Shipping to Jamaica will cost 120 credits";
     
         case 'Australia':
-            return "Shipping to Chile will cost 170 credits";
+            return "Shipping to Australia will cost 170 credits";
         
         default:
             return "Sorry, there is no delivery to your country";
